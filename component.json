@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "path simplfication utility",
   "keywords": ["path", "poly", "canvas", "simplify"],
-  "scripts": ["index.js"]
+  "scripts": ["index.js"],
+  "development": {
+    "component/sketch": "*"
+  }
 }
