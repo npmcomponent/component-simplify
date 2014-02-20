@@ -1,11 +1,12 @@
 {
-  "name": "simplify",
-  "version": "1.0.0",
+  "name": "component-simplify",
   "description": "path simplfication utility",
-  "keywords": ["path", "poly", "canvas", "simplify"],
-  "component": {
-    "scripts": {
-      "simplify/index.js": "index.js"
-    }
-  }
+  "version": "1.0.0",
+  "keywords": [
+    "path",
+    "poly",
+    "canvas",
+    "simplify"
+  ],
+  "dependencies": {}
 }
